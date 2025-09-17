@@ -1,7 +1,6 @@
 # AI-Lab
 An AI innovation hub for building, training, and deploying intelligent models from ML basics to cutting-edge deep learning.
 
-<h1 align="center">🧠 NeuraForge-AI</h1>
 <p align="center">
   <i>Forging intelligence through Machine Learning, Deep Learning, and AI research.</i>
 </p>
