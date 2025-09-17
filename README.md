@@ -1,6 +1,4 @@
-# AI-Lab
-An AI innovation hub for building, training, and deploying intelligent models from ML basics to cutting-edge deep learning.
-
+<h1 align="center">🧠 AI-Lab</h1>
 <p align="center">
   <i>Forging intelligence through Machine Learning, Deep Learning, and AI research.</i>
 </p>
@@ -54,25 +52,6 @@ An AI innovation hub for building, training, and deploying intelligent models fr
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />  
 
 ---
-
-## 📂 Repository Structure
-
-AI-Lab/
-│── datasets/ # Datasets or loaders
-│── notebooks/ # Jupyter notebooks
-│── models/ # Model architectures
-│── projects/ # End-to-end AI projects
-│── utils/ # Helper functions
-│── docs/ # Notes & research
-│── tests/ # Unit tests
-│── requirements.txt
-│── README.md
-│── LICENSE
-
----
-
----
-
 ## 📈 Progress Tracker
 
 <p align="center">
@@ -102,4 +81,6 @@ Models built here are experimental and should not be used in production without 
 <p align="center">
   💭 <i>"Forging intelligence to empower, protect, and inspire the future."</i>
 </p>
+
+
 
