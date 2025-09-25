@@ -1,86 +1,67 @@
 <h1 align="center">🧠 AI-Lab</h1>
+
 <p align="center">
-  <i>Forging intelligence through Machine Learning, Deep Learning, and AI research.</i>
+  <img src="https://via.placeholder.com/800x200/101010/FFFFFF?text=AI-Lab:+Forging+Intelligent+Systems" alt="AI-Lab Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/CharlesKariuki-001/NeuraForge-AI?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/CharlesKariuki-001/NeuraForge-AI?style=for-the-badge&color=yellow" />
+  My workshop for forging AI—from basic ML tweaks to deep dives in vision and language models. It's where I turn curiosity into code.
 </p>
 
----
-
-## ✨ About the Project
-
-**NeuraForge-AI** is my **AI research & innovation hub** where I:  
-- 🧠 Learn and experiment with **machine learning & deep learning models**.  
-- 📊 Build projects in **computer vision, NLP, and reinforcement learning**.  
-- 🔐 Explore the **intersection of AI and cybersecurity** (AI for threat detection, privacy-preserving AI).  
-- 🌍 Work on **AI projects for SDGs**, e.g. healthcare, misinformation detection, education.  
-- 📖 Document every step to grow and share knowledge.  
-
----
-
-## 🚀 Features (Planned & In Progress)
-
-✅ End-to-end ML projects (classification, regression, clustering)  
-✅ Deep Learning with TensorFlow & PyTorch  
-✅ NLP projects (chatbots, spam detection, misinformation analysis)  
-✅ Computer Vision (image classification, object detection, OCR)  
-✅ Federated Learning experiments for privacy-preserving AI  
-⬜ AI-powered dashboards & deployable APIs (FastAPI/Flask + Docker)  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**  
-<img src="https://skillicons.dev/icons?i=python,cpp,java,typescript,javascript,react,nodejs" />
-
-**AI/ML Libraries:**  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />  
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />  
-<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />  
-
-**Other Tools:**  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />  
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />  
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />  
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />  
-
----
-## 📈 Progress Tracker
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesKariuki-001&repo=NeuraForge-AI&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/github/license/CharlesKariuki-001/AI-Lab?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/stars/CharlesKariuki-001/AI-Lab?style=for-the-badge&color=yellow" alt="Stars">
 </p>
 
 ---
 
-## 📖 Disclaimer
+## My AI Journey Here
+Started with simple classifiers, now pushing boundaries like AI for SDGs. AI-Lab is my proof-of-concept zone—experiments that show I can train, deploy, and secure models. Inspired by late-night Kaggle sessions, it's raw learning with real results.
 
-This repo is **for learning, research, and open-source contributions**.  
-Models built here are experimental and should not be used in production without further validation.  
+## Planned Builds
+- End-to-End ML: From data to deployment.
+- NLP Tools: Chatbots fighting misinformation.
+- Vision Projects: Object detection for real apps.
+- Privacy AI: Federated setups.
+- Dashboards: Visualizing model performance.
 
----
+| Project | Status | Accuracy Goal | Tools |
+|---------|--------|---------------|-------|
+| Spam Detector | ✅ Done | 95% | NLTK, PyTorch |
+| Image Classifier | 🛠️ Building | 90%+ | TensorFlow, OpenCV |
+| Federated Model | ⬜ Next | N/A | Flower Framework |
 
-## 🌍 Connect With Me
+## Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+## Get Going
+1. Clone: `git clone https://github.com/CharlesKariuki-001/AI-Lab.git`
+2. Setup: `pip install -r requirements.txt`
+3. Run: `jupyter notebook ml-basics.ipynb`
+4. Explore: Tweak and share.
+
+## Folders
+- `projects/` : Full builds.
+- `notebooks/` : Experiments.
+- `data/` : Samples.
+- `deploy/` : API wrappers.
+
+## Contribute
+Fork, hack, PR—let's iterate.
+
+## License
+MIT.
+
+## Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 <p align="center">
-  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/CharlesKariuki-001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  "AI is forged in the lab, not born perfect."
 </p>
-
----
-
-<p align="center">
-  💭 <i>"Forging intelligence to empower, protect, and inspire the future."</i>
-</p>
-
-
-
