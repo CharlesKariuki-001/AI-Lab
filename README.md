@@ -17,7 +17,7 @@
 ---
 
 ## My AI Journey Here
-Started with simple classifiers, now pushing boundaries like AI for SDGs. AI-Lab is my proof of concept zone experiments that show I can train, deploy, and secure models. Inspired by late-night Kaggle sessions, it's raw learning with real results.
+Started with simple classifiers, now pushing boundaries. AI-Lab is my proof of concept zone experiments that show I can train, deploy, and secure models. Inspired by late-night Kaggle sessions, it's raw learning with real results.
 
 ## Planned Builds
 - End-to-End ML: From data to deployment.
