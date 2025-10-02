@@ -47,10 +47,12 @@ Started with simple classifiers, now pushing boundaries like AI for SDGs. AI-Lab
 4. Explore: Tweak and share.
 
 ## Folders
-- `projects/` : Full builds.
-- `notebooks/` : Experiments.
-- `data/` : Samples.
-- `deploy/` : API wrappers.
+- `projects/` → Full builds (e.g. spam detector, classifiers).
+- `notebooks/` → Learning notebooks, date + topic named.
+- `experiments/` → Small Python scripts and tests.
+- `notes/` → Markdown notes (my understanding in words).
+- `data/` → Sample datasets.
+- `deploy/` → API wrappers and deployment tests.
 
 ## Contribute
 Fork, hack, PR—let's iterate.
@@ -59,7 +61,7 @@ Fork, hack, PR—let's iterate.
 MIT.
 
 ## Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlymburu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 <p align="center">
