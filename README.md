@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  My workshop for forging AI—from basic ML tweaks to deep dives in vision and language models. It's where I turn curiosity into code.
+  My workshop for forging AI from basic ML tweaks to deep dives in vision and language models. It's where I turn curiosity into code.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 ## My AI Journey Here
-Started with simple classifiers, now pushing boundaries like AI for SDGs. AI-Lab is my proof-of-concept zone—experiments that show I can train, deploy, and secure models. Inspired by late-night Kaggle sessions, it's raw learning with real results.
+Started with simple classifiers, now pushing boundaries like AI for SDGs. AI-Lab is my proof of concept zone experiments that show I can train, deploy, and secure models. Inspired by late-night Kaggle sessions, it's raw learning with real results.
 
 ## Planned Builds
 - End-to-End ML: From data to deployment.
@@ -55,7 +55,7 @@ Started with simple classifiers, now pushing boundaries like AI for SDGs. AI-Lab
 - `deploy/` → API wrappers and deployment tests.
 
 ## Contribute
-Fork, hack, PR—let's iterate.
+Fork, hack, PR let's iterate.
 
 ## License
 MIT.
